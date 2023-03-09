@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        {/* small change */}
       </header>
     </div>
   );
